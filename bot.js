@@ -1718,7 +1718,7 @@ msg.channel.send(embed).then(() => {
 
 client.on('ready', function(){	
     var ms = 40000 ;	
-    var setGame = ['بطاطا#2022'];	
+    var setGame = ['MeeRcY.'];	
     var i = -1;	
     var j = 0;	
     setInterval(function (){	
